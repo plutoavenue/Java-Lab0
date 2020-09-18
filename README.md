@@ -1,15 +1,7 @@
 # Java-Lab0
 0. Java statements
+
 Згідно варіанту реалізувати методи для повторення основних операторів. 
-/lab0/taskbook/integer.htm
-/lab0/taskbook/boolean.htm
-/lab0/taskbook/if.htm
-/lab0/taskbook/case.htm
-/lab0/taskbook/for.htm
-/lab0/taskbook/while.htm
-/lab0/taskbook/minmax.htm
-/lab0/taskbook/array.htm
-/lab0/taskbook/matrix.htm
 
 1.	Все входные и выходные данные в заданиях этой группы являются целыми числами. Все числа, для которых указано количество цифр (двузначное число, трехзначное число и т. д.), считаются положительными.
 Integer10. Дано трехзначное число. Вывести вначале его последнюю цифру (единицы), а затем — его среднюю цифру (десятки).
